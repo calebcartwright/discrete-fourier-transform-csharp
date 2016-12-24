@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Cmc.Fourier.Algorithms")]
+[assembly: AssemblyTitle("Cmc.Fourier.Algorithms.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Cmc.Fourier.Algorithms")]
+[assembly: AssemblyProduct("Cmc.Fourier.Algorithms.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d57befb5-a6e6-430e-9794-d2cb959ea5a6")]
+[assembly: Guid("4b56712c-b729-4f58-b8c1-746e31b30fc1")]
 
 // Version information for an assembly consists of the following four values:
 //

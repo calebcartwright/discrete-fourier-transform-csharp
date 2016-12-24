@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>d57befb5-a6e6-430e-9794-d2cb959ea5a6</ProjectGuid>
+    <ProjectGuid>2875ce8a-9d4a-463f-acad-062b8e44cf5e</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Cmc.Fourier.Algorithms</RootNamespace>

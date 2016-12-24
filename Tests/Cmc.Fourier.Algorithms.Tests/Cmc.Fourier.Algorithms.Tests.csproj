@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27FF0B4E-FCE4-4E49-8823-FE0732E9C7AC}</ProjectGuid>
+    <ProjectGuid>{4B56712C-B729-4F58-B8C1-746E31B30FC1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Cmc.Fourier.Algorithms.Tests</RootNamespace>
